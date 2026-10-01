@@ -1,0 +1,6 @@
+# 过程产物和本地素材，不进仓库
+preview/
+hero.png
+prompt-left.txt
+prompt-right.txt
+.DS_Store
